@@ -1,0 +1,8 @@
+print("Hello i m bhavik")
+print("Today is very cold day")
+print("i m learning python and it's seems like i am enjoying to do thiss !!")
+print(25)
+print(6+9)
+print(35-10)
+print(9*9)
+print(693/3)
